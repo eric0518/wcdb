@@ -18,13 +18,13 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTChainCall+Private.h>
-#import <WCDB/WCTCore+Private.h>
-#import <WCDB/WCTResult.h>
-#import <WCDB/WCTRowSelect+Private.h>
-#import <WCDB/WCTRowSelect.h>
-#import <WCDB/WCTSelectBase+Private.h>
-#import <WCDB/handle_statement.hpp>
+#import <WCTChainCall+Private.h>
+#import <WCTCore+Private.h>
+#import <WCTResult.h>
+#import <WCTRowSelect+Private.h>
+#import <WCTRowSelect.h>
+#import <WCTSelectBase+Private.h>
+#import <handle_statement.hpp>
 
 @implementation WCTRowSelect
 

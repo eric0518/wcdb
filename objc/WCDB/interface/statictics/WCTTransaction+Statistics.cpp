@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTError+Private.h>
-#import <WCDB/WCTTransaction+Private.h>
-#import <WCDB/WCTTransaction+Statistics.h>
+#import <WCTError+Private.h>
+#import <WCTTransaction+Private.h>
+#import <WCTTransaction+Statistics.h>
 
 @implementation WCTTransaction (Statistics)
 

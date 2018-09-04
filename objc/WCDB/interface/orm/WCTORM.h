@@ -18,19 +18,19 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTRuntimeCppAccessor.h>
-#import <WCDB/WCTRuntimeObjCAccessor.h>
+#import <WCTRuntimeCppAccessor.h>
+#import <WCTRuntimeObjCAccessor.h>
 
-#import <WCDB/WCTBinding.h>
-#import <WCDB/WCTColumnBinding.h>
-#import <WCDB/WCTConstraintBinding.h>
-#import <WCDB/WCTIndexBinding.h>
+#import <WCTBinding.h>
+#import <WCTColumnBinding.h>
+#import <WCTConstraintBinding.h>
+#import <WCTIndexBinding.h>
 
-#import <WCDB/WCTCoding.h>
-#import <WCDB/WCTExpr.h>
-#import <WCDB/WCTProperty.h>
+#import <WCTCoding.h>
+#import <WCTExpr.h>
+#import <WCTProperty.h>
 
-#import <WCDB/WCTCodingMacro.h>
-#import <WCDB/WCTIndexMacro.h>
-#import <WCDB/WCTMacroHelper.h>
-#import <WCDB/WCTPropertyMacro.h>
+#import <WCTCodingMacro.h>
+#import <WCTIndexMacro.h>
+#import <WCTMacroHelper.h>
+#import <WCTPropertyMacro.h>

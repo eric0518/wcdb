@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTDeclare.h>
-#import <WCDB/WCTProperty.h>
+#import <WCTDeclare.h>
+#import <WCTProperty.h>
 
 @protocol WCTTableCoding
 @required

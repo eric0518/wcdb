@@ -18,11 +18,11 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTCore+Private.h>
-#import <WCDB/WCTError+Private.h>
-#import <WCDB/WCTError.h>
-#import <WCDB/WCTInterface+Core.h>
-#import <WCDB/WCTStatement+Private.h>
+#import <WCTCore+Private.h>
+#import <WCTError+Private.h>
+#import <WCTError.h>
+#import <WCTInterface+Core.h>
+#import <WCTStatement+Private.h>
 
 @implementation WCTInterface (Core)
 

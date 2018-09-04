@@ -18,14 +18,14 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTChainCall+Private.h>
-#import <WCDB/WCTCore+Private.h>
-#import <WCDB/WCTExpr.h>
-#import <WCDB/WCTResult.h>
-#import <WCDB/WCTSelectBase+NoARC.h>
-#import <WCDB/WCTSelectBase+Private.h>
-#import <WCDB/WCTSelectBase.h>
-#import <WCDB/handle_statement.hpp>
+#import <WCTChainCall+Private.h>
+#import <WCTCore+Private.h>
+#import <WCTExpr.h>
+#import <WCTResult.h>
+#import <WCTSelectBase+NoARC.h>
+#import <WCTSelectBase+Private.h>
+#import <WCTSelectBase.h>
+#import <handle_statement.hpp>
 
 #ifndef COCOAPODS
 #if __has_feature(objc_arc)

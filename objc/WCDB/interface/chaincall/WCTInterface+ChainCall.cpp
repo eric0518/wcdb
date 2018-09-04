@@ -18,23 +18,23 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTCoding.h>
-#import <WCDB/WCTDelete+Private.h>
-#import <WCDB/WCTDelete.h>
-#import <WCDB/WCTExpr.h>
-#import <WCDB/WCTInsert+Private.h>
-#import <WCDB/WCTInsert.h>
-#import <WCDB/WCTInterface+ChainCall.h>
-#import <WCDB/WCTMultiSelect+Private.h>
-#import <WCDB/WCTMultiSelect.h>
-#import <WCDB/WCTProperty.h>
-#import <WCDB/WCTResult.h>
-#import <WCDB/WCTRowSelect+Private.h>
-#import <WCDB/WCTRowSelect.h>
-#import <WCDB/WCTSelect+Private.h>
-#import <WCDB/WCTSelect.h>
-#import <WCDB/WCTUpdate+Private.h>
-#import <WCDB/WCTUpdate.h>
+#import <WCTCoding.h>
+#import <WCTDelete+Private.h>
+#import <WCTDelete.h>
+#import <WCTExpr.h>
+#import <WCTInsert+Private.h>
+#import <WCTInsert.h>
+#import <WCTInterface+ChainCall.h>
+#import <WCTMultiSelect+Private.h>
+#import <WCTMultiSelect.h>
+#import <WCTProperty.h>
+#import <WCTResult.h>
+#import <WCTRowSelect+Private.h>
+#import <WCTRowSelect.h>
+#import <WCTSelect+Private.h>
+#import <WCTSelect.h>
+#import <WCTUpdate+Private.h>
+#import <WCTUpdate.h>
 
 @implementation WCTInterface (ChainCall)
 

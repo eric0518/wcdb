@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#include <WCDB/column.hpp>
-#include <WCDB/column_index.hpp>
-#include <WCDB/expr.hpp>
+#include <column.hpp>
+#include <column_index.hpp>
+#include <expr.hpp>
 
 namespace WCDB {
 

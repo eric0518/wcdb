@@ -21,8 +21,8 @@
 #ifndef module_argument_hpp
 #define module_argument_hpp
 
-#include <WCDB/declare.hpp>
-#include <WCDB/describable.hpp>
+#include <declare.hpp>
+#include <describable.hpp>
 
 namespace WCDB {
 

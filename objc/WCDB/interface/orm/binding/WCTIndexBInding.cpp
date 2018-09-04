@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTIndexBinding.h>
+#import <WCTIndexBinding.h>
 
 WCTIndexBinding::WCTIndexBinding(const std::string &ins)
     : indexNameSubfix(ins)

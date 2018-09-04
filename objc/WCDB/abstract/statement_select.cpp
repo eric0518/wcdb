@@ -18,14 +18,14 @@
  * limitations under the License.
  */
 
-#include <WCDB/clause_join.hpp>
-#include <WCDB/column.hpp>
-#include <WCDB/column_result.hpp>
-#include <WCDB/expr.hpp>
-#include <WCDB/handle.hpp>
-#include <WCDB/order.hpp>
-#include <WCDB/statement_select.hpp>
-#include <WCDB/subquery.hpp>
+#include <clause_join.hpp>
+#include <column.hpp>
+#include <column_result.hpp>
+#include <expr.hpp>
+#include <handle.hpp>
+#include <order.hpp>
+#include <statement_select.hpp>
+#include <subquery.hpp>
 
 namespace WCDB {
 

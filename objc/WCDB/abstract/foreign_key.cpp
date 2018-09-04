@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/foreign_key.hpp>
+#include <foreign_key.hpp>
 
 namespace WCDB {
 

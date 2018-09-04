@@ -18,8 +18,8 @@
  * limitations under the License.
  */
 
-#include <WCDB/pragma.hpp>
-#include <WCDB/statement_pragma.hpp>
+#include <pragma.hpp>
+#include <statement_pragma.hpp>
 
 namespace WCDB {
 

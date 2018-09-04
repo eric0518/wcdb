@@ -21,14 +21,14 @@
 #ifndef handle_pool_hpp
 #define handle_pool_hpp
 
-#include <WCDB/abstract.h>
-#include <WCDB/concurrent_list.hpp>
-#include <WCDB/config.hpp>
-#include <WCDB/error.hpp>
-#include <WCDB/handle_recyclable.hpp>
-#include <WCDB/recyclable.hpp>
-#include <WCDB/rwlock.hpp>
-#include <WCDB/utility.hpp>
+#include <abstract.h>
+#include <concurrent_list.hpp>
+#include <config.hpp>
+#include <error.hpp>
+#include <handle_recyclable.hpp>
+#include <recyclable.hpp>
+#include <rwlock.hpp>
+#include <utility.hpp>
 #include <unordered_map>
 
 namespace WCDB {

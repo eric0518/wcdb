@@ -18,11 +18,11 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTConstraintMacro.h>
-#import <WCDB/WCTIndexMacro.h>
-#import <WCDB/WCTMacroHelper.h>
-#import <WCDB/WCTPropertyMacro.h>
-#import <WCDB/macro.hpp>
+#import <WCTConstraintMacro.h>
+#import <WCTIndexMacro.h>
+#import <WCTMacroHelper.h>
+#import <WCTPropertyMacro.h>
+#import <macro.hpp>
 
 #define __WCDB_BINDING(className) _s_##className##_binding
 #define __WCDB_PROPERTIES(className) _s_##className##_properties

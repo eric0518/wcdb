@@ -19,9 +19,9 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTChainCall.h>
-#import <WCDB/WCTCore+Private.h>
-#import <WCDB/ticker.hpp>
+#import <WCTChainCall.h>
+#import <WCTCore+Private.h>
+#import <ticker.hpp>
 
 @interface WCTChainCall () {
 @protected

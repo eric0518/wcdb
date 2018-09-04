@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTExpr.h>
-#import <WCDB/WCTProperty.h>
-#import <WCDB/WCTResult.h>
+#import <WCTExpr.h>
+#import <WCTProperty.h>
+#import <WCTResult.h>
 
 WCTPropertyNamed WCTProperty::PropertyNamed = ^(NSString *propertyName) {
   return WCTProperty(propertyName);

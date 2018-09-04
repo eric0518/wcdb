@@ -18,8 +18,8 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTCoding.h>
-#import <WCDB/WCTValue.h>
+#import <WCTCoding.h>
+#import <WCTValue.h>
 
 @implementation NSObject (WCTValue)
 

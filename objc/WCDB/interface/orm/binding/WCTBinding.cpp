@@ -18,12 +18,12 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTBinding.h>
-#import <WCDB/WCTCoding.h>
-#import <WCDB/WCTColumnBinding.h>
-#import <WCDB/WCTIndexBinding.h>
-#import <WCDB/WCTProperty.h>
-#import <WCDB/error.hpp>
+#import <WCTBinding.h>
+#import <WCTCoding.h>
+#import <WCTColumnBinding.h>
+#import <WCTIndexBinding.h>
+#import <WCTProperty.h>
+#import <error.hpp>
 #import <objc/runtime.h>
 
 WCTBinding::WCTBinding(Class cls)

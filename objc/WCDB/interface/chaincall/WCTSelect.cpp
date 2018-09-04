@@ -18,18 +18,18 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTBinding.h>
-#import <WCDB/WCTChainCall+Private.h>
-#import <WCDB/WCTCoding.h>
-#import <WCDB/WCTColumnBinding.h>
-#import <WCDB/WCTCore+Private.h>
-#import <WCDB/WCTExpr.h>
-#import <WCDB/WCTResult.h>
-#import <WCDB/WCTSelect+Private.h>
-#import <WCDB/WCTSelect.h>
-#import <WCDB/WCTSelectBase+Private.h>
-#import <WCDB/handle_statement.hpp>
-#import <WCDB/utility.hpp>
+#import <WCTBinding.h>
+#import <WCTChainCall+Private.h>
+#import <WCTCoding.h>
+#import <WCTColumnBinding.h>
+#import <WCTCore+Private.h>
+#import <WCTExpr.h>
+#import <WCTResult.h>
+#import <WCTSelect+Private.h>
+#import <WCTSelect.h>
+#import <WCTSelectBase+Private.h>
+#import <handle_statement.hpp>
+#import <utility.hpp>
 
 @implementation WCTSelect {
     WCTResultList _resultList;

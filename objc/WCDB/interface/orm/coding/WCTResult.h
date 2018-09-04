@@ -18,10 +18,10 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTDeclare.h>
-#import <WCDB/WCTExpr.h>
-#import <WCDB/WCTProperty.h>
-#import <WCDB/WCTPropertyBase.h>
+#import <WCTDeclare.h>
+#import <WCTExpr.h>
+#import <WCTProperty.h>
+#import <WCTPropertyBase.h>
 
 class WCTResult : public WCDB::ColumnResult, public WCTPropertyBase {
 public:

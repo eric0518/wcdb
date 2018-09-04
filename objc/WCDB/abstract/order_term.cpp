@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/order_term.hpp>
+#include <order_term.hpp>
 
 namespace WCDB {
 

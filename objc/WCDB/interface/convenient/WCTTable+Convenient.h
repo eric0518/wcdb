@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTDeclare.h>
-#import <WCDB/WCTTable.h>
+#import <WCTDeclare.h>
+#import <WCTTable.h>
 
 /**
  WCTTable(Convenient) category contains the combination of common operations on SQL.

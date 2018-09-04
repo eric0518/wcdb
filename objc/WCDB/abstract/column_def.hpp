@@ -21,12 +21,12 @@
 #ifndef column_def_hpp
 #define column_def_hpp
 
-#include <WCDB/column.hpp>
-#include <WCDB/column_type.hpp>
-#include <WCDB/declare.hpp>
-#include <WCDB/describable.hpp>
-#include <WCDB/foreign_key.hpp>
-#include <WCDB/order_term.hpp>
+#include <column.hpp>
+#include <column_type.hpp>
+#include <declare.hpp>
+#include <describable.hpp>
+#include <foreign_key.hpp>
+#include <order_term.hpp>
 
 namespace WCDB {
 

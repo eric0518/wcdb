@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#include <WCDB/expr.hpp>
-#include <WCDB/order.hpp>
-#include <WCDB/statement_delete.hpp>
+#include <expr.hpp>
+#include <order.hpp>
+#include <statement_delete.hpp>
 
 namespace WCDB {
 

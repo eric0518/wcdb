@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTDeclare.h>
-#import <WCDB/abstract.h>
+#import <WCTDeclare.h>
+#import <abstract.h>
 
 class WCTAnyProperty : public WCDB::Column {
 public:

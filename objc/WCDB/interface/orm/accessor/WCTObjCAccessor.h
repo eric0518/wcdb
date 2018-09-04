@@ -19,7 +19,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTBaseAccessor.h>
+#import <WCTBaseAccessor.h>
 #import <functional>
 #import <type_traits>
 

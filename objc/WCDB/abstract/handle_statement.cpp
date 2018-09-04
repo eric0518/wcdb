@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/handle_statement.hpp>
+#include <handle_statement.hpp>
 #include <sqlcipher/sqlite3.h>
 
 namespace WCDB {

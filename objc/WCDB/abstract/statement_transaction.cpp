@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/statement_transaction.hpp>
+#include <statement_transaction.hpp>
 
 namespace WCDB {
 

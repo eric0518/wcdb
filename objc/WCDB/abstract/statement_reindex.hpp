@@ -21,7 +21,7 @@
 #ifndef statement_reindex_hpp
 #define statement_reindex_hpp
 
-#include <WCDB/statement.hpp>
+#include <statement.hpp>
 
 namespace WCDB {
 

@@ -18,10 +18,10 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTCoding.h>
-#import <WCDB/WCTColumnBinding.h>
-#import <WCDB/WCTValue.h>
-#import <WCDB/error.hpp>
+#import <WCTCoding.h>
+#import <WCTColumnBinding.h>
+#import <WCTValue.h>
+#import <error.hpp>
 
 bool WCTColumnBinding::isPrimary() const
 {

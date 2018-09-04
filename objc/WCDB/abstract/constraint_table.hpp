@@ -21,8 +21,8 @@
 #ifndef constraint_table_hpp
 #define constraint_table_hpp
 
-#include <WCDB/declare.hpp>
-#include <WCDB/describable.hpp>
+#include <declare.hpp>
+#include <describable.hpp>
 
 namespace WCDB {
 

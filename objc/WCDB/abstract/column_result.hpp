@@ -21,8 +21,8 @@
 #ifndef column_result_hpp
 #define column_result_hpp
 
-#include <WCDB/declare.hpp>
-#include <WCDB/describable.hpp>
+#include <declare.hpp>
+#include <describable.hpp>
 
 namespace WCDB {
 

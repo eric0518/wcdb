@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTInterface.h>
+#import <WCTInterface.h>
 
 @implementation WCTInterface
 

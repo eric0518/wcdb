@@ -21,7 +21,7 @@
 #ifndef WCDB_OMIT_TOKENIZE_APPLE
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTMacroHelper.h>
+#import <WCTMacroHelper.h>
 
 WCDB_EXTERN NSString *const WCTTokenizerNameApple;
 

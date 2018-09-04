@@ -18,10 +18,10 @@
  * limitations under the License.
  */
 
-#include <WCDB/column_def.hpp>
-#include <WCDB/constraint_table.hpp>
-#include <WCDB/statement_create_table.hpp>
-#include <WCDB/statement_select.hpp>
+#include <column_def.hpp>
+#include <constraint_table.hpp>
+#include <statement_create_table.hpp>
+#include <statement_select.hpp>
 
 namespace WCDB {
 

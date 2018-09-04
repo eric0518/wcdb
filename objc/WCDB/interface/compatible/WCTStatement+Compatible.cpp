@@ -20,7 +20,7 @@
 
 #ifndef WCDB_OMIT_DEPRECATED
 
-#import <WCDB/WCTStatement+Compatible.h>
+#import <WCTStatement+Compatible.h>
 
 @implementation WCTStatement (Compatible)
 

@@ -21,8 +21,8 @@
 #ifndef statement_create_virtual_table_hpp
 #define statement_create_virtual_table_hpp
 
-#include <WCDB/declare.hpp>
-#include <WCDB/statement.hpp>
+#include <declare.hpp>
+#include <statement.hpp>
 
 namespace WCDB {
 

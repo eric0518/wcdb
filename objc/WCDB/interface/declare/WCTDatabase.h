@@ -19,7 +19,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTInterface.h>
+#import <WCTInterface.h>
 
 /**
  Thread-safe

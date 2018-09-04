@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Tencent is pleased to support the open source community by making
  * WCDB available.
  *
@@ -18,11 +18,11 @@
  * limitations under the License.
  */
 
-#include <WCDB/clause_join.hpp>
-#include <WCDB/column.hpp>
-#include <WCDB/declare.hpp>
-#include <WCDB/expr.hpp>
-#include <WCDB/subquery.hpp>
+#include <clause_join.hpp>
+#include <column.hpp>
+#include <declare.hpp>
+#include <expr.hpp>
+#include <subquery.hpp>
 
 namespace WCDB {
 

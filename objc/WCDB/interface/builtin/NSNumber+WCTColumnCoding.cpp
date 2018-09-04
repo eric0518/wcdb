@@ -21,7 +21,7 @@
 #ifdef WCDB_BUILTIN_COLUMN_CODING
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCDB.h>
+#import <WCDB.h>
 
 @interface NSNumber (WCTColumnCoding) <WCTColumnCoding>
 @end

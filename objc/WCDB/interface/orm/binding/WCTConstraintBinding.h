@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTDeclare.h>
-#import <WCDB/WCTExpr.h>
-#import <WCDB/abstract.h>
+#import <WCTDeclare.h>
+#import <WCTExpr.h>
+#import <abstract.h>
 #import <string>
 
 typedef NS_ENUM(int, WCTConstraintBindingType) {

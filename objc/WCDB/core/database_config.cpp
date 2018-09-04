@@ -18,12 +18,12 @@
  * limitations under the License.
  */
 
-#include <WCDB/database.hpp>
-#include <WCDB/fts_modules.hpp>
-#include <WCDB/handle_statement.hpp>
-#include <WCDB/macro.hpp>
-#include <WCDB/timed_queue.hpp>
-#include <WCDB/utility.hpp>
+#include <database.hpp>
+#include <fts_modules.hpp>
+#include <handle_statement.hpp>
+#include <macro.hpp>
+#include <timed_queue.hpp>
+#include <utility.hpp>
 #include <queue>
 #include <thread>
 #include <vector>

@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTError.h>
+#import <WCTError.h>
 
 @implementation WCTError
 

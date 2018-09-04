@@ -18,10 +18,10 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTCoding.h>
-#import <WCDB/WCTCodingMacro.h>
-#import <WCDB/WCTProperty.h>
-#import <WCDB/WCTSequence.h>
+#import <WCTCoding.h>
+#import <WCTCodingMacro.h>
+#import <WCTProperty.h>
+#import <WCTSequence.h>
 
 /**
  Builtin ORM for "sqlite_sequence" table. For further information, see https://sqlite.org/autoinc.html .

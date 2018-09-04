@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/statement_drop_table.hpp>
+#include <statement_drop_table.hpp>
 
 namespace WCDB {
 

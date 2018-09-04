@@ -21,8 +21,8 @@
 #ifndef subquery_hpp
 #define subquery_hpp
 
-#include <WCDB/declare.hpp>
-#include <WCDB/describable.hpp>
+#include <declare.hpp>
+#include <describable.hpp>
 
 namespace WCDB {
 

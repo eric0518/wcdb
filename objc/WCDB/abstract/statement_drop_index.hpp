@@ -21,7 +21,7 @@
 #ifndef statement_drop_index_hpp
 #define statement_drop_index_hpp
 
-#include <WCDB/statement.hpp>
+#include <statement.hpp>
 
 namespace WCDB {
 

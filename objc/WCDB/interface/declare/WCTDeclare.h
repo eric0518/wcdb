@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/abstract.h>
-#import <WCDB/utility.hpp>
+#import <abstract.h>
+#import <utility.hpp>
 #import <map>
 #import <unordered_map>
 

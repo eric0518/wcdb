@@ -21,7 +21,7 @@
 #ifndef statement_detach_hpp
 #define statement_detach_hpp
 
-#include <WCDB/statement.hpp>
+#include <statement.hpp>
 
 namespace WCDB {
 

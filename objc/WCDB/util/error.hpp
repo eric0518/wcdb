@@ -21,8 +21,8 @@
 #ifndef error_hpp
 #define error_hpp
 
-#include <WCDB/thread_local.hpp>
-#include <WCDB/utility.hpp>
+#include <thread_local.hpp>
+#include <utility.hpp>
 #include <climits>
 #include <functional>
 #include <map>

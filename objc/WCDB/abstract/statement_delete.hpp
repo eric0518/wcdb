@@ -21,7 +21,7 @@
 #ifndef statement_delete_hpp
 #define statement_delete_hpp
 
-#include <WCDB/statement.hpp>
+#include <statement.hpp>
 
 namespace WCDB {
 

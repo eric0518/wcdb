@@ -21,10 +21,10 @@
 #ifndef WCTBinding_hpp
 #define WCTBinding_hpp
 
-#import <WCDB/WCTColumnBinding.h>
-#import <WCDB/WCTConstraintBinding.h>
-#import <WCDB/WCTDeclare.h>
-#import <WCDB/WCTIndexBinding.h>
+#import <WCTColumnBinding.h>
+#import <WCTConstraintBinding.h>
+#import <WCTDeclare.h>
+#import <WCTIndexBinding.h>
 
 class WCTBinding {
 public:

@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/error.hpp>
+#include <error.hpp>
 #include <stdlib.h>
 #include <string>
 

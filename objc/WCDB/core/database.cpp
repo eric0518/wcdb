@@ -18,10 +18,10 @@
  * limitations under the License.
  */
 
-#include <WCDB/database.hpp>
-#include <WCDB/error.hpp>
-#include <WCDB/file.hpp>
-#include <WCDB/path.hpp>
+#include <database.hpp>
+#include <error.hpp>
+#include <file.hpp>
+#include <path.hpp>
 
 namespace WCDB {
 

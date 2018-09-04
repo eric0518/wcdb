@@ -18,8 +18,8 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTSelectBase+Private.h>
-#import <WCDB/WCTSelectBase+WCTExpr.h>
+#import <WCTSelectBase+Private.h>
+#import <WCTSelectBase+WCTExpr.h>
 
 @implementation WCTSelectBase (WCTExpr)
 

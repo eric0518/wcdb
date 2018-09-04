@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#include <WCDB/handle.hpp>
-#include <WCDB/transaction.hpp>
-#include <WCDB/utility.hpp>
+#include <handle.hpp>
+#include <transaction.hpp>
+#include <utility.hpp>
 
 namespace WCDB {
 

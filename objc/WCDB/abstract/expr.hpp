@@ -21,10 +21,10 @@
 #ifndef expr_hpp
 #define expr_hpp
 
-#include <WCDB/column_type.hpp>
-#include <WCDB/declare.hpp>
-#include <WCDB/describable.hpp>
-#include <WCDB/literal_value.hpp>
+#include <column_type.hpp>
+#include <declare.hpp>
+#include <describable.hpp>
+#include <literal_value.hpp>
 
 namespace WCDB {
 

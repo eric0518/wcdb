@@ -18,14 +18,14 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTChainCall+Private.h>
-#import <WCDB/WCTChainCall.h>
-#import <WCDB/WCTCoding.h>
-#import <WCDB/WCTCore+Private.h>
-#import <WCDB/WCTError+Private.h>
-#import <WCDB/WCTProperty.h>
-#import <WCDB/WCTValue.h>
-#import <WCDB/handle_statement.hpp>
+#import <WCTChainCall+Private.h>
+#import <WCTChainCall.h>
+#import <WCTCoding.h>
+#import <WCTCore+Private.h>
+#import <WCTError+Private.h>
+#import <WCTProperty.h>
+#import <WCTValue.h>
+#import <handle_statement.hpp>
 
 @implementation WCTChainCall
 

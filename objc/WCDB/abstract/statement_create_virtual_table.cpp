@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/statement_create_virtual_table.hpp>
+#include <statement_create_virtual_table.hpp>
 
 namespace WCDB {
 

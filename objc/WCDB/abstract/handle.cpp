@@ -18,18 +18,18 @@
  * limitations under the License.
  */
 
-#include <WCDB/File.hpp>
-#include <WCDB/Path.hpp>
+#include <File.hpp>
+#include <Path.hpp>
 #ifndef COCOAPODS
-#include <WCDB/SQLiteRepairKit.h>
+#include <SQLiteRepairKit.h>
 #else
 #include <sqliterk/SQLiteRepairKit.h>
 #endif
-#include <WCDB/handle.hpp>
-#include <WCDB/handle_statement.hpp>
-#include <WCDB/macro.hpp>
-#include <WCDB/statement.hpp>
-#include <WCDB/statement_transaction.hpp>
+#include <handle.hpp>
+#include <handle_statement.hpp>
+#include <macro.hpp>
+#include <statement.hpp>
+#include <statement_transaction.hpp>
 #include <sqlcipher/sqlite3.h>
 
 namespace WCDB {

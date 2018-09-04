@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTCore+Private.h>
-#import <WCDB/WCTTable.h>
+#import <WCTCore+Private.h>
+#import <WCTTable.h>
 
 @interface WCTTable () {
     Class _cls;

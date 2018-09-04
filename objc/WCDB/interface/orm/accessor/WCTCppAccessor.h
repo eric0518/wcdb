@@ -18,8 +18,8 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTBaseAccessor.h>
-#import <WCDB/abstract.h>
+#import <WCTBaseAccessor.h>
+#import <abstract.h>
 
 template <typename T, typename Enable = void>
 struct ColumnIsCppType : public std::false_type {

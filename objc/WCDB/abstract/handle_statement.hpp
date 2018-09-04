@@ -21,10 +21,10 @@
 #ifndef handle_statement_hpp
 #define handle_statement_hpp
 
-#include <WCDB/column_type.hpp>
-#include <WCDB/describable.hpp>
-#include <WCDB/error.hpp>
-#include <WCDB/handle.hpp>
+#include <column_type.hpp>
+#include <describable.hpp>
+#include <error.hpp>
+#include <handle.hpp>
 #include <mutex>
 
 namespace WCDB {

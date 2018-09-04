@@ -19,13 +19,13 @@
  */
 
 #ifndef COCOAPODS
-#include <WCDB/SQLiteRepairKit.h>
+#include <SQLiteRepairKit.h>
 #else
 #include <sqliterk/SQLiteRepairKit.h>
 #endif
-#include <WCDB/database.hpp>
-#include <WCDB/path.hpp>
-#include <WCDB/utility.hpp>
+#include <database.hpp>
+#include <path.hpp>
+#include <utility.hpp>
 
 namespace WCDB {
 

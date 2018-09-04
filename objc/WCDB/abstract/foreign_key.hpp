@@ -21,8 +21,8 @@
 #ifndef foreign_key_hpp
 #define foreign_key_hpp
 
-#include <WCDB/declare.hpp>
-#include <WCDB/describable.hpp>
+#include <declare.hpp>
+#include <describable.hpp>
 
 namespace WCDB {
 

@@ -21,9 +21,9 @@
 #ifndef order_hpp
 #define order_hpp
 
-#include <WCDB/declare.hpp>
-#include <WCDB/describable.hpp>
-#include <WCDB/order_term.hpp>
+#include <declare.hpp>
+#include <describable.hpp>
+#include <order_term.hpp>
 
 namespace WCDB {
 

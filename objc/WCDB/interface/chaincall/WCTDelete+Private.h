@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTChainCall+Private.h>
-#import <WCDB/WCTDelete.h>
+#import <WCTChainCall+Private.h>
+#import <WCTDelete.h>
 
 @interface WCTDelete (Private)
 

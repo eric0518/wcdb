@@ -19,7 +19,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTTransaction.h>
+#import <WCTTransaction.h>
 
 @interface WCTTransaction (Table)
 

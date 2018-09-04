@@ -21,7 +21,7 @@
 #ifndef pragma_hpp
 #define pragma_hpp
 
-#include <WCDB/describable.hpp>
+#include <describable.hpp>
 
 namespace WCDB {
 

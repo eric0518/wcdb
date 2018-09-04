@@ -18,10 +18,10 @@
  * limitations under the License.
  */
 
-#include <WCDB/column.hpp>
-#include <WCDB/expr.hpp>
-#include <WCDB/handle.hpp>
-#include <WCDB/statement_insert.hpp>
+#include <column.hpp>
+#include <expr.hpp>
+#include <handle.hpp>
+#include <statement_insert.hpp>
 
 namespace WCDB {
 

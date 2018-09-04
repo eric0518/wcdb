@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#include <WCDB/column_def.hpp>
-#include <WCDB/constraint_table.hpp>
-#include <WCDB/module_argument.hpp>
+#include <column_def.hpp>
+#include <constraint_table.hpp>
+#include <module_argument.hpp>
 
 namespace WCDB {
 

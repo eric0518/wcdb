@@ -21,7 +21,7 @@
 #ifndef utility_hpp
 #define utility_hpp
 
-#include <WCDB/describable.hpp>
+#include <describable.hpp>
 #include <string.h>
 
 namespace WCDB {

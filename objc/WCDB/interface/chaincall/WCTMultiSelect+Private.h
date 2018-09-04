@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTCore+Private.h>
-#import <WCDB/WCTMultiSelect.h>
+#import <WCTCore+Private.h>
+#import <WCTMultiSelect.h>
 
 @interface WCTMultiSelect ()
 

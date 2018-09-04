@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCDB.h>
-#import <WCDB/WCTMacroHelper.h>
+#import <WCDB.h>
+#import <WCTMacroHelper.h>
 
 WCDB_EXTERN NSString *const WCTModuleNameFTS3;
 

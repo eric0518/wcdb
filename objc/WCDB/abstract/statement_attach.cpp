@@ -18,8 +18,8 @@
  * limitations under the License.
  */
 
-#include <WCDB/expr.hpp>
-#include <WCDB/statement_attach.hpp>
+#include <expr.hpp>
+#include <statement_attach.hpp>
 
 namespace WCDB {
 

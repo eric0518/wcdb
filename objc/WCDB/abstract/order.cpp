@@ -18,8 +18,8 @@
  * limitations under the License.
  */
 
-#include <WCDB/expr.hpp>
-#include <WCDB/order.hpp>
+#include <expr.hpp>
+#include <order.hpp>
 
 namespace WCDB {
 

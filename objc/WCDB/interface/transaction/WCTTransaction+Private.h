@@ -19,9 +19,9 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTTransaction.h>
-#import <WCDB/ticker.hpp>
-#import <WCDB/transaction.hpp>
+#import <WCTTransaction.h>
+#import <ticker.hpp>
+#import <transaction.hpp>
 
 @interface WCTTransaction () {
     WCDB::Error _error;

@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTPropertyBase.h>
+#import <WCTPropertyBase.h>
 
 WCTPropertyBase::WCTPropertyBase(Class cls, const std::shared_ptr<WCTColumnBinding> &columnBinding)
     : m_cls(cls)

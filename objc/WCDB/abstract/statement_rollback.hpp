@@ -21,7 +21,7 @@
 #ifndef statement_rollback_hpp
 #define statement_rollback_hpp
 
-#include <WCDB/statement.hpp>
+#include <statement.hpp>
 
 namespace WCDB {
 

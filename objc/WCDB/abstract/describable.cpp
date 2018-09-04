@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/describable.hpp>
+#include <describable.hpp>
 
 namespace WCDB {
 

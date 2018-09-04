@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTCompatible.h>
+#import <WCTCompatible.h>
 
 @implementation WCTCompatible
 

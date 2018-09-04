@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/ticker.hpp>
+#include <ticker.hpp>
 #include <mach/mach_time.h>
 #include <mutex>
 

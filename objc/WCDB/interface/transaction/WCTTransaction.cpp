@@ -18,11 +18,11 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTCore+Private.h>
-#import <WCDB/WCTTransaction+Private.h>
-#import <WCDB/WCTTransaction.h>
-#import <WCDB/database.hpp>
-#import <WCDB/transaction.hpp>
+#import <WCTCore+Private.h>
+#import <WCTTransaction+Private.h>
+#import <WCTTransaction.h>
+#import <database.hpp>
+#import <transaction.hpp>
 
 @implementation WCTTransaction
 

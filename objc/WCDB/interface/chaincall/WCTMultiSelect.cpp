@@ -18,13 +18,13 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTChainCall+Private.h>
-#import <WCDB/WCTDeclare.h>
-#import <WCDB/WCTMultiSelect+Private.h>
-#import <WCDB/WCTMultiSelect.h>
-#import <WCDB/WCTResult.h>
-#import <WCDB/WCTSelectBase+Private.h>
-#import <WCDB/handle_statement.hpp>
+#import <WCTChainCall+Private.h>
+#import <WCTDeclare.h>
+#import <WCTMultiSelect+Private.h>
+#import <WCTMultiSelect.h>
+#import <WCTResult.h>
+#import <WCTSelectBase+Private.h>
+#import <handle_statement.hpp>
 
 @implementation WCTMultiSelect {
     WCTResultList _resultList;

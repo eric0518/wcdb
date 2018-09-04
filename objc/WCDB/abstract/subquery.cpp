@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#include <WCDB/clause_join.hpp>
-#include <WCDB/statement_select.hpp>
-#include <WCDB/subquery.hpp>
+#include <clause_join.hpp>
+#include <statement_select.hpp>
+#include <subquery.hpp>
 
 namespace WCDB {
 

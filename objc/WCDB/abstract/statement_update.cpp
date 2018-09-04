@@ -18,11 +18,11 @@
  * limitations under the License.
  */
 
-#include <WCDB/column.hpp>
-#include <WCDB/expr.hpp>
-#include <WCDB/handle.hpp>
-#include <WCDB/order.hpp>
-#include <WCDB/statement_update.hpp>
+#include <column.hpp>
+#include <expr.hpp>
+#include <handle.hpp>
+#include <order.hpp>
+#include <statement_update.hpp>
 
 namespace WCDB {
 

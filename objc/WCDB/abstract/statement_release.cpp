@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/statement_release.hpp>
+#include <statement_release.hpp>
 
 namespace WCDB {
 

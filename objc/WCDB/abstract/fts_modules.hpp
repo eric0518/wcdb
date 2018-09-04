@@ -21,7 +21,7 @@
 #ifndef fts_modules_hpp
 #define fts_modules_hpp
 
-#include <WCDB/spin.hpp>
+#include <spin.hpp>
 #include <string>
 #include <unordered_map>
 

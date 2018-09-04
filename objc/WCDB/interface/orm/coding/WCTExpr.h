@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTDeclare.h>
-#import <WCDB/WCTPropertyBase.h>
-#import <WCDB/abstract.h>
+#import <WCTDeclare.h>
+#import <WCTPropertyBase.h>
+#import <abstract.h>
 
 class WCTExpr : public WCDB::Expr, public WCTPropertyBase {
 public:

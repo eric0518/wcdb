@@ -21,10 +21,10 @@
 #ifndef core_base_hpp
 #define core_base_hpp
 
-#include <WCDB/config.hpp>
-#include <WCDB/handle_pool.hpp>
-#include <WCDB/statement_recyclable.hpp>
-#include <WCDB/utility.hpp>
+#include <config.hpp>
+#include <handle_pool.hpp>
+#include <statement_recyclable.hpp>
+#include <utility.hpp>
 
 namespace WCDB {
 

@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTChainCall+Private.h>
-#import <WCDB/WCTUpdate.h>
+#import <WCTChainCall+Private.h>
+#import <WCTUpdate.h>
 
 @interface WCTUpdate (Private)
 

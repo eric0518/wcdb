@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTInterface+Table.h>
-#import <WCDB/WCTTransaction+Private.h>
-#import <WCDB/WCTTransaction+Table.h>
+#import <WCTInterface+Table.h>
+#import <WCTTransaction+Private.h>
+#import <WCTTransaction+Table.h>
 
 @implementation WCTTransaction (Table)
 

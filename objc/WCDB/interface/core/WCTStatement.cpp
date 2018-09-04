@@ -18,13 +18,13 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTCoding.h>
-#import <WCDB/WCTCore+Private.h>
-#import <WCDB/WCTError+Private.h>
-#import <WCDB/WCTStatement+Private.h>
-#import <WCDB/WCTStatement.h>
-#import <WCDB/WCTValue.h>
-#import <WCDB/handle_statement.hpp>
+#import <WCTCoding.h>
+#import <WCTCore+Private.h>
+#import <WCTError+Private.h>
+#import <WCTStatement+Private.h>
+#import <WCTStatement.h>
+#import <WCTValue.h>
+#import <handle_statement.hpp>
 
 @implementation WCTStatement
 

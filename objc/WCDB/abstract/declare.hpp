@@ -21,7 +21,7 @@
 #ifndef declare_hpp
 #define declare_hpp
 
-#include <WCDB/conflict.hpp>
+#include <conflict.hpp>
 #include <atomic>
 #include <cassert>
 #include <functional>

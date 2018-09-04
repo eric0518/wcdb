@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#include <WCDB/database.hpp>
-#include <WCDB/error.hpp>
-#include <WCDB/transaction.hpp>
+#include <database.hpp>
+#include <error.hpp>
+#include <transaction.hpp>
 
 namespace WCDB {
 

@@ -19,6 +19,6 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTMacroHelper.h>
+#import <WCTMacroHelper.h>
 
 WCDB_EXTERN NSString *const WCTTokenizerNameWCDB;

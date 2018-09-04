@@ -19,7 +19,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTChainCall.h>
+#import <WCTChainCall.h>
 
 @interface WCTChainCall (Statistics)
 

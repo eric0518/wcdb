@@ -18,8 +18,8 @@
  * limitations under the License.
  */
 
-#include <WCDB/handle.hpp>
-#include <WCDB/handle_pool.hpp>
+#include <handle.hpp>
+#include <handle_pool.hpp>
 #include <thread>
 #include <unordered_map>
 

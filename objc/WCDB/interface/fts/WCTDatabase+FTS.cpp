@@ -18,8 +18,8 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTDatabase+FTS.h>
-#import <WCDB/WCTDatabase+Private.h>
+#import <WCTDatabase+FTS.h>
+#import <WCTDatabase+Private.h>
 
 NSString *const WCTModuleNameFTS3 = @"fts3";
 

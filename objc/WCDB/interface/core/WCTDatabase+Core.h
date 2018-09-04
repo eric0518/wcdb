@@ -19,9 +19,9 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTDatabase.h>
-#import <WCDB/config.hpp>
-#import <WCDB/handle.hpp>
+#import <WCTDatabase.h>
+#import <config.hpp>
+#import <handle.hpp>
 
 /**
  Configuration

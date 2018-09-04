@@ -21,7 +21,7 @@
 #ifndef statement_transaction_hpp
 #define statement_transaction_hpp
 
-#include <WCDB/statement.hpp>
+#include <statement.hpp>
 
 namespace WCDB {
 

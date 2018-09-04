@@ -21,8 +21,8 @@
 #ifndef statement_update_hpp
 #define statement_update_hpp
 
-#include <WCDB/conflict.hpp>
-#include <WCDB/statement.hpp>
+#include <conflict.hpp>
+#include <statement.hpp>
 
 namespace WCDB {
 

@@ -18,8 +18,8 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTAnyProperty.h>
-#import <WCDB/WCTExpr.h>
+#import <WCTAnyProperty.h>
+#import <WCTExpr.h>
 
 WCTAnyProperty::WCTAnyProperty()
     : WCDB::Column(WCDB::Column::Any)

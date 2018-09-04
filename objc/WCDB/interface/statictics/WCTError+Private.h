@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTError.h>
-#import <WCDB/error.hpp>
+#import <WCTError.h>
+#import <error.hpp>
 
 @interface WCTError ()
 

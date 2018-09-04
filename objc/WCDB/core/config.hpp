@@ -21,10 +21,10 @@
 #ifndef config_hpp
 #define config_hpp
 
-#include <WCDB/abstract.h>
-#include <WCDB/error.hpp>
-#include <WCDB/rwlock.hpp>
-#include <WCDB/utility.hpp>
+#include <abstract.h>
+#include <error.hpp>
+#include <rwlock.hpp>
+#include <utility.hpp>
 #include <functional>
 #include <list>
 #include <memory>

@@ -18,10 +18,10 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTCoding.h>
-#import <WCDB/WCTCodingMacro.h>
-#import <WCDB/WCTMaster.h>
-#import <WCDB/WCTProperty.h>
+#import <WCTCoding.h>
+#import <WCTCodingMacro.h>
+#import <WCTMaster.h>
+#import <WCTProperty.h>
 
 /**
  Builtin ORM for "sqlite_master" table. For further information, see https://www.sqlite.org/faq.html

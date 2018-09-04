@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTChainCall+Private.h>
-#import <WCDB/WCTSelect.h>
+#import <WCTChainCall+Private.h>
+#import <WCTSelect.h>
 
 @interface WCTSelect ()
 

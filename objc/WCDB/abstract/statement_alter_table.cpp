@@ -18,8 +18,8 @@
  * limitations under the License.
  */
 
-#include <WCDB/column_def.hpp>
-#include <WCDB/statement_alter_table.hpp>
+#include <column_def.hpp>
+#include <statement_alter_table.hpp>
 
 namespace WCDB {
 

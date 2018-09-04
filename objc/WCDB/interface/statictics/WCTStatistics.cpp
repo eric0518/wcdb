@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTError+Private.h>
-#import <WCDB/WCTStatistics.h>
-#import <WCDB/database.hpp>
+#import <WCTError+Private.h>
+#import <WCTStatistics.h>
+#import <database.hpp>
 
 @implementation WCTStatistics
 

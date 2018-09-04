@@ -18,13 +18,13 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTCoding.h>
-#import <WCDB/WCTExpr.h>
-#import <WCDB/WCTProperty.h>
-#import <WCDB/WCTResult.h>
-#import <WCDB/WCTSelectBase+WCTExpr.h>
-#import <WCDB/WCTValue.h>
-#import <WCDB/error.hpp>
+#import <WCTCoding.h>
+#import <WCTExpr.h>
+#import <WCTProperty.h>
+#import <WCTResult.h>
+#import <WCTSelectBase+WCTExpr.h>
+#import <WCTValue.h>
+#import <error.hpp>
 
 WCTExpr::WCTExpr()
     : WCDB::Expr()

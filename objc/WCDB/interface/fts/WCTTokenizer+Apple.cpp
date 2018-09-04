@@ -20,9 +20,9 @@
 
 #ifndef WCDB_OMIT_TOKENIZE_APPLE
 
-#import <WCDB/WCDB.h>
-#import <WCDB/WCTTokenizer+Apple.h>
-#import <WCDB/fts_module.hpp>
+#import <WCDB.h>
+#import <WCTTokenizer+Apple.h>
+#import <fts_module.hpp>
 #import <vector>
 
 namespace WCDB {

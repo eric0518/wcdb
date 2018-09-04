@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTChainCall+Private.h>
-#import <WCDB/WCTInsert.h>
+#import <WCTChainCall+Private.h>
+#import <WCTInsert.h>
 
 @interface WCTInsert (Private)
 

@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTColumnBinding.h>
+#import <WCTColumnBinding.h>
 
 class WCTPropertyBase {
 public:

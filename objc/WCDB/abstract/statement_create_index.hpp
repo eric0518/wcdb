@@ -21,7 +21,7 @@
 #ifndef statement_create_index_hpp
 #define statement_create_index_hpp
 
-#include <WCDB/statement.hpp>
+#include <statement.hpp>
 
 namespace WCDB {
 

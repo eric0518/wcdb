@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/statement_savepoint.hpp>
+#include <statement_savepoint.hpp>
 
 namespace WCDB {
 

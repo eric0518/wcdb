@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/statement_recyclable.hpp>
+#include <statement_recyclable.hpp>
 
 namespace WCDB {
 

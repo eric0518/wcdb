@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/statement_rollback.hpp>
+#include <statement_rollback.hpp>
 
 namespace WCDB {
 

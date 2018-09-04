@@ -20,9 +20,9 @@
 
 #ifndef WCDB_OMIT_DEPRECATED
 
-#import <WCDB/WCTDatabase+Compatible.h>
-#import <WCDB/WCTDatabase+Core.h>
-#import <WCDB/WCTDatabase+Table.h>
+#import <WCTDatabase+Compatible.h>
+#import <WCTDatabase+Core.h>
+#import <WCTDatabase+Table.h>
 
 @implementation WCTDatabase (Compatible)
 

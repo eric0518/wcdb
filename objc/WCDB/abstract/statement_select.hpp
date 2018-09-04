@@ -21,7 +21,7 @@
 #ifndef statement_select_hpp
 #define statement_select_hpp
 
-#include <WCDB/statement.hpp>
+#include <statement.hpp>
 
 namespace WCDB {
 

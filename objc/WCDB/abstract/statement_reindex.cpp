@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/statement_reindex.hpp>
+#include <statement_reindex.hpp>
 
 namespace WCDB {
 

@@ -18,8 +18,8 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTRuntimeObjCAccessor.h>
-#import <WCDB/error.hpp>
+#import <WCTRuntimeObjCAccessor.h>
+#import <error.hpp>
 
 #ifndef COCOAPODS
 #if __has_feature(objc_arc)

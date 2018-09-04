@@ -21,7 +21,7 @@
 #ifndef statement_explain_hpp
 #define statement_explain_hpp
 
-#include <WCDB/statement.hpp>
+#include <statement.hpp>
 
 namespace WCDB {
 

@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTDatabase.h>
-#import <WCDB/WCTStatistics.h>
+#import <WCTDatabase.h>
+#import <WCTStatistics.h>
 
 @interface WCTDatabase (Statistics)
 

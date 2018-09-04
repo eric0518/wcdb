@@ -21,8 +21,8 @@
 #ifndef literal_value_hpp
 #define literal_value_hpp
 
-#include <WCDB/column_type.hpp>
-#include <WCDB/describable.hpp>
+#include <column_type.hpp>
+#include <describable.hpp>
 
 namespace WCDB {
 

@@ -18,22 +18,22 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTCoding.h>
-#import <WCDB/WCTDeclare.h>
-#import <WCDB/WCTDelete+Private.h>
-#import <WCDB/WCTDelete.h>
-#import <WCDB/WCTExpr.h>
-#import <WCDB/WCTInsert+Private.h>
-#import <WCDB/WCTInsert.h>
-#import <WCDB/WCTInterface+Convenient.h>
-#import <WCDB/WCTProperty.h>
-#import <WCDB/WCTResult.h>
-#import <WCDB/WCTRowSelect+Private.h>
-#import <WCDB/WCTRowSelect.h>
-#import <WCDB/WCTSelect+Private.h>
-#import <WCDB/WCTSelect.h>
-#import <WCDB/WCTUpdate+Private.h>
-#import <WCDB/WCTUpdate.h>
+#import <WCTCoding.h>
+#import <WCTDeclare.h>
+#import <WCTDelete+Private.h>
+#import <WCTDelete.h>
+#import <WCTExpr.h>
+#import <WCTInsert+Private.h>
+#import <WCTInsert.h>
+#import <WCTInterface+Convenient.h>
+#import <WCTProperty.h>
+#import <WCTResult.h>
+#import <WCTRowSelect+Private.h>
+#import <WCTRowSelect.h>
+#import <WCTSelect+Private.h>
+#import <WCTSelect.h>
+#import <WCTUpdate+Private.h>
+#import <WCTUpdate.h>
 
 @implementation WCTInterface (Convenient)
 

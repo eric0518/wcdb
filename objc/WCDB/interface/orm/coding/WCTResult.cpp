@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTExpr.h>
-#import <WCDB/WCTProperty.h>
-#import <WCDB/WCTResult.h>
+#import <WCTExpr.h>
+#import <WCTProperty.h>
+#import <WCTResult.h>
 
 WCTResult::WCTResult(const WCTExpr &expr)
     : WCDB::ColumnResult(expr)

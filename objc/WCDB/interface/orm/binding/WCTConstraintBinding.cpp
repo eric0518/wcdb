@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/WCTConstraintBinding.h>
+#include <WCTConstraintBinding.h>
 
 WCTConstraintBindingBase::WCTConstraintBindingBase(const std::string &n, WCTConstraintBindingType t)
     : name(n)

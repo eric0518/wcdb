@@ -18,8 +18,8 @@
  * limitations under the License.
  */
 
-#include <WCDB/fts_module.hpp>
-#include <WCDB/fts_modules.hpp>
+#include <fts_module.hpp>
+#include <fts_modules.hpp>
 
 namespace WCDB {
 

@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#include <WCDB/file.hpp>
-#include <WCDB/path.hpp>
-#include <WCDB/utility.hpp>
+#include <file.hpp>
+#include <path.hpp>
+#include <utility.hpp>
 #include <errno.h>
 #include <sys/stat.h>
 #include <unistd.h>

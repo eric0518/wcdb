@@ -20,8 +20,8 @@
 
 #ifndef WCDB_OMIT_DEPRECATED
 
-#import <WCDB/WCTTransaction+Compatible.h>
-#import <WCDB/WCTTransaction+Table.h>
+#import <WCTTransaction+Compatible.h>
+#import <WCTTransaction+Table.h>
 
 @implementation WCTTransaction (Compatible)
 

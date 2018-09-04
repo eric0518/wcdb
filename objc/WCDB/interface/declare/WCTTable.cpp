@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTTable+Database.h>
-#import <WCDB/WCTTable+Private.h>
-#import <WCDB/WCTTable.h>
+#import <WCTTable+Database.h>
+#import <WCTTable+Private.h>
+#import <WCTTable.h>
 
 @implementation WCTTable
 

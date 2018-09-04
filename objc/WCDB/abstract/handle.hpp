@@ -21,10 +21,10 @@
 #ifndef handle_hpp
 #define handle_hpp
 
-#include <WCDB/declare.hpp>
-#include <WCDB/error.hpp>
-#include <WCDB/handle_statement.hpp>
-#include <WCDB/utility.hpp>
+#include <declare.hpp>
+#include <error.hpp>
+#include <handle_statement.hpp>
+#include <utility.hpp>
 #include <map>
 #include <memory>
 #include <mutex>

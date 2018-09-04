@@ -21,12 +21,12 @@
 #ifndef database_hpp
 #define database_hpp
 
-#include <WCDB/abstract.h>
-#include <WCDB/core_base.hpp>
-#include <WCDB/handle.hpp>
-#include <WCDB/handle_pool.hpp>
-#include <WCDB/statement_recyclable.hpp>
-#include <WCDB/thread_local.hpp>
+#include <abstract.h>
+#include <core_base.hpp>
+#include <handle.hpp>
+#include <handle_pool.hpp>
+#include <statement_recyclable.hpp>
+#include <thread_local.hpp>
 #include <array>
 
 namespace WCDB {

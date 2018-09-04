@@ -19,9 +19,9 @@
  */
 
 #import <CoreFoundation/CoreFoundation.h>
-#import <WCDB/WCTTokenizer+WCDB.h>
-#import <WCDB/fts_module.hpp>
-#import <WCDB/tokenizer.hpp>
+#import <WCTTokenizer+WCDB.h>
+#import <fts_module.hpp>
+#import <tokenizer.hpp>
 
 namespace WCDB {
 

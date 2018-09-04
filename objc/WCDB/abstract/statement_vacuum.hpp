@@ -21,7 +21,7 @@
 #ifndef statement_vacuum_hpp
 #define statement_vacuum_hpp
 
-#include <WCDB/statement.hpp>
+#include <statement.hpp>
 
 namespace WCDB {
 

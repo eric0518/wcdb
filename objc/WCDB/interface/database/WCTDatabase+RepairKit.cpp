@@ -18,8 +18,8 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTDatabase+Private.h>
-#import <WCDB/WCTDatabase+RepairKit.h>
+#import <WCTDatabase+Private.h>
+#import <WCTDatabase+RepairKit.h>
 
 @implementation WCTDatabase (RepairKit)
 

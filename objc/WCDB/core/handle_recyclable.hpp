@@ -21,9 +21,9 @@
 #ifndef handle_recyclable_hpp
 #define handle_recyclable_hpp
 
-#include <WCDB/abstract.h>
-#include <WCDB/config.hpp>
-#include <WCDB/recyclable.hpp>
+#include <abstract.h>
+#include <config.hpp>
+#include <recyclable.hpp>
 #include <memory>
 
 namespace WCDB {

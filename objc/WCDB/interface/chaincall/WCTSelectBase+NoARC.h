@@ -19,7 +19,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTSelectBase.h>
+#import <WCTSelectBase.h>
 
 @interface WCTSelectBase (NoARC)
 

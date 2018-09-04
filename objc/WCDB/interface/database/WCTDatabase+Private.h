@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTDatabase.h>
-#import <WCDB/database.hpp>
+#import <WCTDatabase.h>
+#import <database.hpp>
 
 @interface WCTDatabase () {
 @protected

@@ -18,8 +18,8 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTCore+Private.h>
-#import <WCDB/WCTCore.h>
+#import <WCTCore+Private.h>
+#import <WCTCore.h>
 
 @implementation WCTCore
 

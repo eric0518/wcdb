@@ -21,8 +21,8 @@
 #ifndef clause_join_hpp
 #define clause_join_hpp
 
-#include <WCDB/declare.hpp>
-#include <WCDB/describable.hpp>
+#include <declare.hpp>
+#include <describable.hpp>
 
 namespace WCDB {
 

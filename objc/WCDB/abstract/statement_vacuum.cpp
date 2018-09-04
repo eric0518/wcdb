@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/statement_vacuum.hpp>
+#include <statement_vacuum.hpp>
 
 namespace WCDB {
 

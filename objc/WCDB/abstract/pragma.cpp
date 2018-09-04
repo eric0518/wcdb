@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/pragma.hpp>
+#include <pragma.hpp>
 
 namespace WCDB {
 

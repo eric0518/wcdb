@@ -21,8 +21,8 @@
 #ifndef statement_pragma_hpp
 #define statement_pragma_hpp
 
-#include <WCDB/literal_value.hpp>
-#include <WCDB/statement.hpp>
+#include <literal_value.hpp>
+#include <statement.hpp>
 
 namespace WCDB {
 

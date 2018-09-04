@@ -21,7 +21,7 @@
 #ifndef WCDB_OMIT_DEPRECATED
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTStatement.h>
+#import <WCTStatement.h>
 
 @interface WCTStatement (Compatible)
 

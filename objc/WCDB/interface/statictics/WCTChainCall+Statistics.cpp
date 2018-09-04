@@ -18,9 +18,9 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTChainCall+Private.h>
-#import <WCDB/WCTChainCall+Statistics.h>
-#import <WCDB/WCTError+Private.h>
+#import <WCTChainCall+Private.h>
+#import <WCTChainCall+Statistics.h>
+#import <WCTError+Private.h>
 
 @implementation WCTChainCall (Statistics)
 

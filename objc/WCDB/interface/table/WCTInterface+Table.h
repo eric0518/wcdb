@@ -19,9 +19,9 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTDeclare.h>
-#import <WCDB/WCTInterface.h>
-#import <WCDB/error.hpp>
+#import <WCTDeclare.h>
+#import <WCTInterface.h>
+#import <error.hpp>
 
 @interface WCTInterface (Table)
 

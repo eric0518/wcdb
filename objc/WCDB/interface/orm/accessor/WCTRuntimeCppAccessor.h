@@ -19,8 +19,8 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTCppAccessor.h>
-#import <WCDB/WCTRuntimeBaseAccessor.h>
+#import <WCTCppAccessor.h>
+#import <WCTRuntimeBaseAccessor.h>
 
 template <typename PropertyType, typename Enable = void>
 class WCTRuntimeCppAccessor {

@@ -18,10 +18,10 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTCore+Private.h>
-#import <WCDB/WCTDatabase+Table.h>
-#import <WCDB/WCTInterface+Table.h>
-#import <WCDB/WCTTable+Database.h>
+#import <WCTCore+Private.h>
+#import <WCTDatabase+Table.h>
+#import <WCTInterface+Table.h>
+#import <WCTTable+Database.h>
 
 @implementation WCTDatabase (Table)
 

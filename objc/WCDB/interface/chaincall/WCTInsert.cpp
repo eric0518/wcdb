@@ -18,14 +18,14 @@
  * limitations under the License.
  */
 
-#import <WCDB/WCTChainCall+Private.h>
-#import <WCDB/WCTCore+Private.h>
-#import <WCDB/WCTDeclare.h>
-#import <WCDB/WCTInsert.h>
-#import <WCDB/WCTORM.h>
-#import <WCDB/WCTProperty.h>
-#import <WCDB/handle_statement.hpp>
-#import <WCDB/utility.hpp>
+#import <WCTChainCall+Private.h>
+#import <WCTCore+Private.h>
+#import <WCTDeclare.h>
+#import <WCTInsert.h>
+#import <WCTORM.h>
+#import <WCTProperty.h>
+#import <handle_statement.hpp>
+#import <utility.hpp>
 
 @implementation WCTInsert {
     WCTPropertyList _propertyList;

@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/literal_value.hpp>
+#include <literal_value.hpp>
 
 namespace WCDB {
 

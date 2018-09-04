@@ -19,7 +19,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/WCTDeclare.h>
+#import <WCTDeclare.h>
 
 @interface NSObject (WCTValue)
 

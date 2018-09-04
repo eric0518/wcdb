@@ -21,7 +21,7 @@
 #ifndef fts_module_hpp
 #define fts_module_hpp
 
-#include <WCDB/fts_modules.hpp>
+#include <fts_modules.hpp>
 #include <sqlcipher/fts3_tokenizer.h>
 #include <sqlcipher/sqlite3.h>
 #include <stdlib.h>

@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-#include <WCDB/conflict.hpp>
+#include <conflict.hpp>
 
 namespace WCDB {
 

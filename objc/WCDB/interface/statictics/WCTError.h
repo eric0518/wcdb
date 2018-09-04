@@ -19,7 +19,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <WCDB/error.hpp>
+#import <error.hpp>
 #import <type_traits>
 
 /**
